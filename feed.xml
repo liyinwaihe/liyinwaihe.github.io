@@ -492,28 +492,5 @@
       <category>Gridea Pro</category>
       <category>Gridea</category>
     </item>
-    <item>
-      <title>关于</title>
-      <link>https://liyinwaihe.github.io/post/about/</link>
-      <guid isPermaLink="true">https://liyinwaihe.github.io/post/about/</guid>
-      <pubDate>Mon, 12 Oct 2026 04:31:39 +0800</pubDate>
-      <description><![CDATA[<h3 id="heading">关于我</h3>
-<p>嗨，我是狄伊，一个有趣的人。</p>
-<p>坐标西安，从事无人机相关工作一坤年。白天飞飞机，晚上写点乱七八糟的东西。</p>
-<h3 id="heading-1">关于我的博客</h3>
-<p>我发现自己想的很多事情，不写下来就会忘。写博客不是为了给别人看，是怕将来的自己想不起来现在的自己在想什么。</p>
-<h3 id="heading-2">你能在这里看到什么</h3>
-<ul>
-<li>技术笔记和踩坑记录</li>
-<li>偶尔写点产品思考和读书笔记</li>
-<li>一些不知道该归到哪一类的碎碎念</li>
-</ul>
-<h3 id="heading-3">找到我</h3>
-<ul>
-<li>GitHub: <a href="https://github.com/liyinwaihe">@liyinwaihe</a></li>
-<li>Email: <a href="mailto:liyinwaihe@qq.com">liyinwaihe@qq.com</a></li>
-</ul>
-]]></description>
-    </item>
   </channel>
 </rss>
