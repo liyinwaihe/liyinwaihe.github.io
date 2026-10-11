@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liyinwaihe.github.io/sitemap.xml
